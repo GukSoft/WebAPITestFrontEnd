@@ -3,8 +3,9 @@
     public class CommonModules
     {
 
-        public int mulutiple(int a, int b) 
+        public int mulutiple(int a, int b)
         {
-           return a * b;
+            return a * b;
         }
+    }
 }
