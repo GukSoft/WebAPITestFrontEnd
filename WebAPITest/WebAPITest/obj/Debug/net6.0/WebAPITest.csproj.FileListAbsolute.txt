@@ -1,0 +1,7 @@
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Debug\net6.0\WebAPITest.csproj.AssemblyReference.cache
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Debug\net6.0\WebAPITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Debug\net6.0\WebAPITest.AssemblyInfoInputs.cache
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Debug\net6.0\WebAPITest.AssemblyInfo.cs
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Debug\net6.0\WebAPITest.csproj.CoreCompileInputs.cache
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Debug\net6.0\WebAPITest.MvcApplicationPartsAssemblyInfo.cs
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Debug\net6.0\WebAPITest.MvcApplicationPartsAssemblyInfo.cache

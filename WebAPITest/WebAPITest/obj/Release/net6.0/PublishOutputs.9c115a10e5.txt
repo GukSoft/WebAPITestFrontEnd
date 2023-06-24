@@ -1,0 +1,11 @@
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Release\net6.0\PubTmp\Out\WebAPITest.exe
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Release\net6.0\PubTmp\Out\WebAPITest.dll
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Release\net6.0\PubTmp\Out\WebAPITest.deps.json
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Release\net6.0\PubTmp\Out\WebAPITest.runtimeconfig.json
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Release\net6.0\PubTmp\Out\WebAPITest.pdb
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Git\WebAPITest\WebAPITest\WebAPITest\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
